@@ -1,0 +1,14 @@
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTuplasOperadorTenario\bin\Debug\net7.0\ExemplosTuplasOperadorTenario.exe
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTuplasOperadorTenario\bin\Debug\net7.0\ExemplosTuplasOperadorTenario.deps.json
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTuplasOperadorTenario\bin\Debug\net7.0\ExemplosTuplasOperadorTenario.runtimeconfig.json
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTuplasOperadorTenario\bin\Debug\net7.0\ExemplosTuplasOperadorTenario.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTuplasOperadorTenario\bin\Debug\net7.0\ExemplosTuplasOperadorTenario.pdb
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTuplasOperadorTenario\obj\Debug\net7.0\ExemplosTuplasOperadorTenario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTuplasOperadorTenario\obj\Debug\net7.0\ExemplosTuplasOperadorTenario.AssemblyInfoInputs.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTuplasOperadorTenario\obj\Debug\net7.0\ExemplosTuplasOperadorTenario.AssemblyInfo.cs
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTuplasOperadorTenario\obj\Debug\net7.0\ExemplosTuplasOperadorTenario.csproj.CoreCompileInputs.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTuplasOperadorTenario\obj\Debug\net7.0\ExemplosTuplasOperadorTenario.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTuplasOperadorTenario\obj\Debug\net7.0\refint\ExemplosTuplasOperadorTenario.dll
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTuplasOperadorTenario\obj\Debug\net7.0\ExemplosTuplasOperadorTenario.pdb
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTuplasOperadorTenario\obj\Debug\net7.0\ExemplosTuplasOperadorTenario.genruntimeconfig.cache
+C:\Users\tiagu\OneDrive\Área de Trabalho\Projetos\C#\ExemplosTuplasOperadorTenario\obj\Debug\net7.0\ref\ExemplosTuplasOperadorTenario.dll
